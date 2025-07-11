@@ -48,14 +48,3 @@ I am passionate about developing clean and efficient code, creating intuitive UI
 | React         | Component-based UI   |
 | Node.js       | Backend logic        |
 | MongoDB/MySQL | Data storage         |
-
----
-
-## 🚀 Setup Instructions
-
-To run this portfolio locally:
-
-```bash
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-# Open index.html in your browser
