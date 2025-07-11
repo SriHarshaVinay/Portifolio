@@ -23,8 +23,8 @@ I am passionate about developing clean and efficient code, creating intuitive UI
 ---
 
 ## 📸 Preview
+<img width="1914" height="926" alt="image" src="https://github.com/user-attachments/assets/0985ed2f-4dc1-4929-b6c5-189817b82508" />
 
-![Portfolio Preview](./45030c82-8807-4a93-8c79-95d1d57a0eac.png)
 
 ---
 
