@@ -18,7 +18,7 @@ I am passionate about developing clean and efficient code, creating intuitive UI
 
 ## 🌐 Live Preview
 
-[[Click here to view the website](https://68706f34d347e364dc9027ea--vocal-torte-226e44.netlify.app/)] *(Replace with your actual deployed link)*
+[[Click here to view the website](https://68706f34d347e364dc9027ea--vocal-torte-226e44.netlify.app/)]
 
 ---
 
