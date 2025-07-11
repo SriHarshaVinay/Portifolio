@@ -18,7 +18,7 @@ I am passionate about developing clean and efficient code, creating intuitive UI
 
 ## 🌐 Live Preview
 
-[Click here to view the website](#) *(Replace with your actual deployed link)*
+[Click here to view the website](file:///C:/Users/sriha/Desktop/fullstack/fullstacktraining/portfolio/index.html) *(Replace with your actual deployed link)*
 
 ---
 
